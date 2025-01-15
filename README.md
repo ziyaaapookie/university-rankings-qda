@@ -1,0 +1,2 @@
+# university-rankings-qda
+PROYEK AKHIR UAS BIG DATA AND DATA MINING (ST168)
